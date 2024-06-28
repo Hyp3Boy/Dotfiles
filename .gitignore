@@ -1,0 +1,19 @@
+# Ignorar archivos de contraseñas
+*.secret
+
+# Ignorar cachés de aplicaciones
+.cache/
+
+/github-copilot
+nvim/db_ui
+/alacritty
+/fish 
+/neofetch 
+/zed 
+/htop 
+/jgit 
+/raycast 
+/configstore
+/envman
+
+
