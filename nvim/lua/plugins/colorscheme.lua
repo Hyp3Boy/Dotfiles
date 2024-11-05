@@ -1,10 +1,6 @@
 return {
   -- add tokyonight
-  { {
-    "folke/tokyonight.nvim",
-    lazy = true,
-    opts = { style = "night" },
-  } },
+  { "folke/tokyonight.nvim", lazy = true, opts = { style = "night" } },
 
   -- Configure LazyVim to load tokyonight
   {
